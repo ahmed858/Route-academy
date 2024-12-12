@@ -1,0 +1,14 @@
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\bin\Debug\net8.0\session02 demo.exe
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\bin\Debug\net8.0\session02 demo.deps.json
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\bin\Debug\net8.0\session02 demo.runtimeconfig.json
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\bin\Debug\net8.0\session02 demo.dll
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\bin\Debug\net8.0\session02 demo.pdb
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.AssemblyInfoInputs.cache
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.AssemblyInfo.cs
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.dll
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\refint\session02 demo.dll
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.pdb
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\session02 demo.genruntimeconfig.cache
+E:\Route\Back-end\02-C#\Session 02\Assignments\session02 assignment\session02 demo\obj\Debug\net8.0\ref\session02 demo.dll

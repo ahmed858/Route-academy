@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\q04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\q04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|e:\\route\\back-end\\02-c#\\session 02\\assignments\\session02 assignment\\assignment02\\q01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79393A90-77BD-4CAE-97B9-9D207C650DB0}|assignment02\\assignment02.csproj|solutionrelative:assignment02\\q01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q07.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q07.cs",
+              "RelativeDocumentMoniker": "assignment02\\Q07.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q07.cs*",
+              "RelativeToolTip": "assignment02\\Q07.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:16:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Person.cs",
+              "RelativeDocumentMoniker": "assignment02\\Person.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Person.cs",
+              "RelativeToolTip": "assignment02\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:11:29.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q06.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q06.cs",
+              "RelativeDocumentMoniker": "assignment02\\Q06.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q06.cs*",
+              "RelativeToolTip": "assignment02\\Q06.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:10:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q05.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q05.cs",
+              "RelativeDocumentMoniker": "assignment02\\Q05.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q05.cs",
+              "RelativeToolTip": "assignment02\\Q05.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:59:47.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q01.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q01.cs",
+              "RelativeDocumentMoniker": "assignment02\\Q01.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q01.cs",
+              "RelativeToolTip": "assignment02\\Q01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:54:40.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q04.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q04.cs",
+              "RelativeDocumentMoniker": "assignment02\\Q04.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Q04.cs",
+              "RelativeToolTip": "assignment02\\Q04.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:53:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Program.cs",
+              "RelativeDocumentMoniker": "assignment02\\Program.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02-C#\\Session 02\\Assignments\\session02 assignment\\assignment02\\Program.cs",
+              "RelativeToolTip": "assignment02\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T23:20:22.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
