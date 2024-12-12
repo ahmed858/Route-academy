@@ -1,0 +1,14 @@
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\bin\Debug\net8.0\Session03 demo.exe
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\bin\Debug\net8.0\Session03 demo.deps.json
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\bin\Debug\net8.0\Session03 demo.runtimeconfig.json
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\bin\Debug\net8.0\Session03 demo.dll
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\bin\Debug\net8.0\Session03 demo.pdb
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.AssemblyInfoInputs.cache
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.AssemblyInfo.cs
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.dll
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\refint\Session03 demo.dll
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.pdb
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\Session03 demo.genruntimeconfig.cache
+E:\Route\Back-end\02 C#\01 Basics\Session 03\Assignments\Session03 Solution\Session03 demo\obj\Debug\net8.0\ref\Session03 demo.dll

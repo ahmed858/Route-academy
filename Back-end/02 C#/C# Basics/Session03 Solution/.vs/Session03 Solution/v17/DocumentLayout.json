@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|e:\\route\\back-end\\02 c#\\01 basics\\session 03\\assignments\\session03 solution\\session 03 assignment\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCA21B-5EF2-4373-9D33-E877260752EA}|Session 03 assignment\\Session 03 assignment.csproj|solutionrelative:session 03 assignment\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q16.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q16.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q16.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q16.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q16.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:12:28.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q15.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q15.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q15.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q15.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q15.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:07:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q14.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q14.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q14.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q14.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q14.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:34:10.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q13.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q13.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q13.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q13.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:33:06.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q10.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q10.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q10.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:28:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q12.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q12.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Q12.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Q12.cs",
+              "RelativeToolTip": "Session 03 assignment\\Q12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:19:04.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Session 03 assignment\\Program.cs",
+              "ToolTip": "E:\\Route\\Back-end\\02 C#\\01 Basics\\Session 03\\Assignments\\Session03 Solution\\Session 03 assignment\\Program.cs",
+              "RelativeToolTip": "Session 03 assignment\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:57:27.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
