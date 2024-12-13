@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q09.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q08.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|solutionrelative:session 04 assignment\\q05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F622DEBC-1292-4C00-A01E-0B3B2BB48804}|Session 04 assignment\\Session 04 assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\c# basics\\session 04 solution\\session 04 assignment\\q04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,20 +66,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Program.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Program.cs",
               "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Program.cs",
               "RelativeToolTip": "Session 04 assignment\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAawAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T04:23:08.883Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q11.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q11.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q11.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q11.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q11.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:35:31.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,20 +102,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Q12.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q12.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q12.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q12.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:35:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q10.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q10.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q10.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q10.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q10.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:33:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Q09.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q09.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q09.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q09.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q09.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:09:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Q08.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q08.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q08.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q08.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q08.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:04:18.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Q07.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q07.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q07.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q07.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q07.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:00:42.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Q06.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q06.cs",
+              "RelativeDocumentMoniker": "Session 04 assignment\\Q06.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q06.cs",
+              "RelativeToolTip": "Session 04 assignment\\Q06.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:09:29.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Q05.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q05.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Q05.cs",
               "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q05.cs",
               "RelativeToolTip": "Session 04 assignment\\Q05.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-12T05:18:02.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Q04.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q04.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Q04.cs",
@@ -84,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Q02.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q02.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Q02.cs",
@@ -96,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Q03.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q03.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Q03.cs",
@@ -108,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Point.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Point.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Point.cs",
@@ -120,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Q01.cs",
               "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\C# Basics\\Session 04 Solution\\Session 04 assignment\\Q01.cs",
               "RelativeDocumentMoniker": "Session 04 assignment\\Q01.cs",
