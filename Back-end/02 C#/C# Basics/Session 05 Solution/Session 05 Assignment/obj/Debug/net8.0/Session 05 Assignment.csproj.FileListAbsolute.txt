@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\bin\Debug\net8.0\Session 05 Assignment.exe
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\bin\Debug\net8.0\Session 05 Assignment.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\bin\Debug\net8.0\Session 05 Assignment.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\bin\Debug\net8.0\Session 05 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\bin\Debug\net8.0\Session 05 Assignment.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\refint\Session 05 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\Session 05 Assignment.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 Assignment\obj\Debug\net8.0\ref\Session 05 Assignment.dll

@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\bin\Debug\net8.0\Session 05 demo.exe
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\bin\Debug\net8.0\Session 05 demo.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\bin\Debug\net8.0\Session 05 demo.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\bin\Debug\net8.0\Session 05 demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\bin\Debug\net8.0\Session 05 demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\refint\Session 05 demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\Session 05 demo.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\C# Basics\Session 05 Solution\Session 05 demo\obj\Debug\net8.0\ref\Session 05 demo.dll
