@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session 01 solution\\session 01 assingnment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|solutionrelative:session 01 assingnment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session 01 solution\\session 01 assingnment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|solutionrelative:session 01 assingnment\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session 01 solution\\session 01 assingnment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65D60B32-B340-487A-A93B-7E46F2386FFC}|Session 01 Assingnment\\Session 01 Assingnment.csproj|solutionrelative:session 01 assingnment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Point.cs",
+              "RelativeDocumentMoniker": "Session 01 Assingnment\\Point.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Point.cs",
+              "RelativeToolTip": "Session 01 Assingnment\\Point.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T22:13:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Person.cs",
+              "RelativeDocumentMoniker": "Session 01 Assingnment\\Person.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Person.cs",
+              "RelativeToolTip": "Session 01 Assingnment\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:30:19.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Program.cs",
+              "RelativeDocumentMoniker": "Session 01 Assingnment\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session 01 Solution\\Session 01 Assingnment\\Program.cs",
+              "RelativeToolTip": "Session 01 Assingnment\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAswIkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T21:18:43.342Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

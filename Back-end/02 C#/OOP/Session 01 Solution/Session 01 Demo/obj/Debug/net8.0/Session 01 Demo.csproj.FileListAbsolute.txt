@@ -1,0 +1,19 @@
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Session 01 Demo.exe
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Session 01 Demo.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Session 01 Demo.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Session 01 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Session 01 Demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Common.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\bin\Debug\net8.0\Common.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.csproj.AssemblyReference.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session .42B21B8E.Up2Date
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\refint\Session 01 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\Session 01 Demo.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session 01 Solution\Session 01 Demo\obj\Debug\net8.0\ref\Session 01 Demo.dll
