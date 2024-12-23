@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\bin\Debug\net8.0\Session02 Assignment.exe
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\bin\Debug\net8.0\Session02 Assignment.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\bin\Debug\net8.0\Session02 Assignment.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\bin\Debug\net8.0\Session02 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\bin\Debug\net8.0\Session02 Assignment.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\refint\Session02 Assignment.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\Session02 Assignment.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session02 Solution\Session02 Assignment\obj\Debug\net8.0\ref\Session02 Assignment.dll

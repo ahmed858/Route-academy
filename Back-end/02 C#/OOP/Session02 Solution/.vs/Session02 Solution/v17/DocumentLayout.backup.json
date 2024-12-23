@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session02 solution\\session02 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|solutionrelative:session02 assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D92AC4-4891-41E2-84AC-9A913DFB9A22}|Session02 Demo\\Session02 Demo.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session02 solution\\session02 demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D92AC4-4891-41E2-84AC-9A913DFB9A22}|Session02 Demo\\Session02 Demo.csproj|solutionrelative:session02 demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session02 solution\\session02 assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|solutionrelative:session02 assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session02 solution\\session02 assignment\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0618496-4856-47D8-8F7E-9DB352C812B8}|Session02 Assignment\\Session02 Assignment.csproj|solutionrelative:session02 assignment\\hiredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Session02 Assignment\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\Program.cs",
+              "RelativeToolTip": "Session02 Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:16:46.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HireDate.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\HireDate.cs",
+              "RelativeDocumentMoniker": "Session02 Assignment\\HireDate.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\HireDate.cs",
+              "RelativeToolTip": "Session02 Assignment\\HireDate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:19:22.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Session02 Assignment\\Employee.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Assignment\\Employee.cs",
+              "RelativeToolTip": "Session02 Assignment\\Employee.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDAAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:17:04.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Session02 Demo\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session02 Solution\\Session02 Demo\\Program.cs",
+              "RelativeToolTip": "Session02 Demo\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:28:34.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
