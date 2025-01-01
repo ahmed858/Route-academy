@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\bin\Debug\net8.0\Session04 Demo.exe
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\bin\Debug\net8.0\Session04 Demo.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\bin\Debug\net8.0\Session04 Demo.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\bin\Debug\net8.0\Session04 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\bin\Debug\net8.0\Session04 Demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\refint\Session04 Demo.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\Session04 Demo.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Session04 Demo\obj\Debug\net8.0\ref\Session04 Demo.dll
