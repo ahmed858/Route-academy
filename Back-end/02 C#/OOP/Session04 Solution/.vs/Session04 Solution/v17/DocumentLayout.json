@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\assignment project01\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|solutionrelative:assignment project01\\duration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\assignment project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|solutionrelative:assignment project01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\assignment project01\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|solutionrelative:assignment project01\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\assignment project01\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEED2307-4ECD-4955-8042-C0E16661F053}|Assignment Project01\\Assignment Project01.csproj|solutionrelative:assignment project01\\point3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B8AC27-9727-47D3-A7EF-C24DDBE0D8EB}|Session03 Demo\\Session03 Demo.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\session03 demo\\abstraction\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B8AC27-9727-47D3-A7EF-C24DDBE0D8EB}|Session03 Demo\\Session03 Demo.csproj|solutionrelative:session03 demo\\abstraction\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B8AC27-9727-47D3-A7EF-C24DDBE0D8EB}|Session03 Demo\\Session03 Demo.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\session04 solution\\session03 demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2B8AC27-9727-47D3-A7EF-C24DDBE0D8EB}|Session03 Demo\\Session03 Demo.csproj|solutionrelative:session03 demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duration.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Duration.cs",
+              "RelativeDocumentMoniker": "Assignment Project01\\Duration.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Duration.cs",
+              "RelativeToolTip": "Assignment Project01\\Duration.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:44:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Maths.cs",
+              "RelativeDocumentMoniker": "Assignment Project01\\Maths.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Maths.cs",
+              "RelativeToolTip": "Assignment Project01\\Maths.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:42:50.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point3D.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Point3D.cs",
+              "RelativeDocumentMoniker": "Assignment Project01\\Point3D.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Point3D.cs",
+              "RelativeToolTip": "Assignment Project01\\Point3D.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwEUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:24:15.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment Project01\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Assignment Project01\\Program.cs",
+              "RelativeToolTip": "Assignment Project01\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwCgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:41:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Session03 Demo\\Abstraction\\Shape.cs",
+              "RelativeDocumentMoniker": "Session03 Demo\\Abstraction\\Shape.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Session03 Demo\\Abstraction\\Shape.cs",
+              "RelativeToolTip": "Session03 Demo\\Abstraction\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:23:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Session03 Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Session03 Demo\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\Session04 Solution\\Session03 Demo\\Program.cs",
+              "RelativeToolTip": "Session03 Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T10:21:56.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

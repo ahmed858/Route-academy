@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\bin\Debug\net8.0\Assignment Project01.exe
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\bin\Debug\net8.0\Assignment Project01.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\bin\Debug\net8.0\Assignment Project01.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\bin\Debug\net8.0\Assignment Project01.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\bin\Debug\net8.0\Assignment Project01.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\refint\Assignment Project01.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\Assignment Project01.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\Session04 Solution\Assignment Project01\obj\Debug\net8.0\ref\Assignment Project01.dll
