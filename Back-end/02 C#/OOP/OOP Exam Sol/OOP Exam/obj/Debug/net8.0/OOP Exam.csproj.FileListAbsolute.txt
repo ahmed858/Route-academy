@@ -1,0 +1,15 @@
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.AssemblyInfoInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.AssemblyInfo.cs
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.csproj.CoreCompileInputs.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.sourcelink.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\bin\Debug\net8.0\OOP Exam.exe
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\bin\Debug\net8.0\OOP Exam.deps.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\bin\Debug\net8.0\OOP Exam.runtimeconfig.json
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\bin\Debug\net8.0\OOP Exam.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\bin\Debug\net8.0\OOP Exam.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\refint\OOP Exam.dll
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.pdb
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\OOP Exam.genruntimeconfig.cache
+E:\Route repo\Route-academy\Back-end\02 C#\OOP\OOP Exam Sol\OOP Exam\obj\Debug\net8.0\ref\OOP Exam.dll

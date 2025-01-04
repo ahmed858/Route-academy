@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\mcq_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\mcq_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\abstract classes\\baseexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\abstract classes\\baseexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\classes\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\classes\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|e:\\route repo\\route-academy\\back-end\\02 c#\\oop\\oop exam sol\\oop exam\\oop exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCA01ED0-67FE-4646-946C-B58F60D729F9}|OOP Exam\\OOP Exam.csproj|solutionrelative:oop exam\\oop exam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Question.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\Question.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Question.cs*",
+              "RelativeToolTip": "OOP Exam\\Classes\\Question.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T20:23:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrueOrFalseQuestion.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\TrueOrFalseQuestion.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\TrueOrFalseQuestion.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\TrueOrFalseQuestion.cs",
+              "RelativeToolTip": "OOP Exam\\Classes\\TrueOrFalseQuestion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:23:34.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\PracticalExam.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\PracticalExam.cs",
+              "RelativeToolTip": "OOP Exam\\Classes\\PracticalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:11:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Answer.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\Answer.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Answer.cs",
+              "RelativeToolTip": "OOP Exam\\Classes\\Answer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:08:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MCQ_Question.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\MCQ_Question.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\MCQ_Question.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\MCQ_Question.cs*",
+              "RelativeToolTip": "OOP Exam\\Classes\\MCQ_Question.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:58:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Subject.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\Subject.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\Subject.cs",
+              "RelativeToolTip": "OOP Exam\\Classes\\Subject.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T18:35:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\FinalExam.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Classes\\FinalExam.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Classes\\FinalExam.cs",
+              "RelativeToolTip": "OOP Exam\\Classes\\FinalExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:14:34.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseExam.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Abstract Classes\\BaseExam.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Abstract Classes\\BaseExam.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Abstract Classes\\BaseExam.cs",
+              "RelativeToolTip": "OOP Exam\\Abstract Classes\\BaseExam.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T07:14:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OOP Exam.csproj",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\OOP Exam.csproj",
+              "RelativeDocumentMoniker": "OOP Exam\\OOP Exam.csproj",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\OOP Exam.csproj",
+              "RelativeToolTip": "OOP Exam\\OOP Exam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T07:13:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Program.cs",
+              "RelativeDocumentMoniker": "OOP Exam\\Program.cs",
+              "ToolTip": "E:\\Route repo\\Route-academy\\Back-end\\02 C#\\OOP\\OOP Exam Sol\\OOP Exam\\Program.cs",
+              "RelativeToolTip": "OOP Exam\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T05:56:57.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
